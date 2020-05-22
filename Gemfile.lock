@@ -144,6 +144,7 @@ GEM
       activesupport (>= 4.2.0)
     glyphicons (1.0.2)
     highline (2.0.3)
+    hirb (0.7.3)
     htmlentities (4.3.4)
     i18n (1.8.2)
       concurrent-ruby (~> 1.0)
@@ -410,6 +411,7 @@ DEPENDENCIES
   bootsnap (>= 1.4.2)
   byebug
   capybara (>= 2.15)
+  hirb
   jbuilder (~> 2.7)
   listen (~> 3.2)
   puma (~> 4.1)
